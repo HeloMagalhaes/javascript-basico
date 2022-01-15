@@ -1,0 +1,5 @@
+//alert("Olá Mundo!")
+//let retornoDoUsuario = confirm("Desaja continuar?")
+//console.log(retornoDoUsuario)
+let idade = prompt("Digite sua idade:")
+console.log(idade)
